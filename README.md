@@ -59,7 +59,7 @@ fetch(scriptURL, {
 
 Download or clone the repository
 
-git clone https://github.com/your-username/portfolio.git
+git clone https://github.com/ishpreet27/portfolio.git
 Open the project folder
 Run the website:
 Open index.html in your browser
